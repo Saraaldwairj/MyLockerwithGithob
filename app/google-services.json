@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728958406304",
+    "firebase_url": "https://mylocker-71e6e.firebaseio.com",
+    "project_id": "mylocker-71e6e",
+    "storage_bucket": "mylocker-71e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728958406304:android:82240599e068a832",
+        "android_client_info": {
+          "package_name": "com.example.saraa.mylocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728958406304-b1ulsfmanj3on335q75iosdtrrougj28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saraa.mylocker",
+            "certificate_hash": "3fa44eb1e5aed64431d6e4ffe955dfdf191553fc"
+          }
+        },
+        {
+          "client_id": "728958406304-9d1rtk8ftna52829b394rji0fjvlibc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDn_l3242A2iRd5X3C06G7wvSKIsj2N8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728958406304-9d1rtk8ftna52829b394rji0fjvlibc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

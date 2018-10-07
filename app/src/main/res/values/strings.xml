@@ -1,0 +1,13 @@
+<resources>
+    <string name="MyLocker">MyLocker</string>
+
+
+    <array name="size">
+        <item> Large </item>
+        <item> Small </item>
+    </array>
+    <array name="status">
+        <item> Available </item>
+        <item> Booked </item>
+    </array>
+</resources>
